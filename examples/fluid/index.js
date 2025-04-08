@@ -14,7 +14,7 @@ function main({ pane, contextID, glslVersion}) {
 	} = GPUIO;
 
 	const PARAMS = {
-		trailLength: 15,
+		trailLength: 20,
 		render: 'Fluid',
 	};
 	// Scaling factor for touch interactions.
